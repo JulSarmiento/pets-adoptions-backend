@@ -1,2 +1,2 @@
-# odashis-backend
-backend para la fundacion protectora de mascotas Odashi's pets for love
+# Sistema de adopción de mascotas 
+backend para una fundacion protectora de mascotas que permite la adopcion, apadrinamiento, voluntariado y asistencia a eventos. 
