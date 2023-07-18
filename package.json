@@ -1,0 +1,21 @@
+{
+  "name": "fundacion-mascotas",
+  "version": "1.0.0",
+  "description": "backend para una fundacion protectora de mascotas que permite la adopcion, apadrinamiento, voluntariado y asistencia a eventos.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch server.js",
+    "start:nodemon": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "http-status": "^1.6.2",
+    "nodemon": "^3.0.1"
+  }
+}
